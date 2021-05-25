@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "502308540277",
+    "project_id": "gro-hub",
+    "storage_bucket": "gro-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502308540277:android:35abcb45a03857762a4d3c",
+        "android_client_info": {
+          "package_name": "com.example.grohub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502308540277-503qp9d8mjvpsf3d2tnrbuqur93r5vpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAboSQk88tAuC5_px0_AdabhajPFUSoWbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502308540277-503qp9d8mjvpsf3d2tnrbuqur93r5vpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

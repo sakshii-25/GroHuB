@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GroHuB</string>
+
+    <string-array name="Price">
+        <item>Rs.12.00</item>
+        <item>Rs.40.00</item>
+        <item>Rs.170.00</item>
+        <item>Rs.40.00.00</item>
+        <item>Rs.40.00</item>
+        <item>Rs.18.00</item>
+        <item>Rs.65.00</item>
+        <item>Rs.20.00</item>
+    </string-array>
+</resources>
